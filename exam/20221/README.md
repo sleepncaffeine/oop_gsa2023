@@ -24,3 +24,21 @@
 `ColorPoint.java`
 
 ## 6.
+
+`ConsTest.java`
+
+## 7.
+
+`SuperTest.java`
+
+## 8.
+
+`CarTest_8.java`
+
+## 9.
+
+`IntTest.java`
+
+## 10.
+
+`ProductTest.java`
