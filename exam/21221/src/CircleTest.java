@@ -24,14 +24,17 @@ class Circle {
 
     public Circle(double radius) {
         // ③ [2점] ;
+        this(radius, "red");
     }
 
     public Circle(String color) {
         // ④ [2점] ;
+        this(5.0, color);
     }
 
     public Circle() {
         // ⑤ [2점] ;
+        this(5.0, "yellow");
     }
 }
 
