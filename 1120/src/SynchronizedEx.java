@@ -1,7 +1,7 @@
 class SharedBoard {
     private int sum = 0;
 
-    public void add() {
+    synchronized public void add() {
         int n = sum;
         Thread.yield();
         n += 10;
